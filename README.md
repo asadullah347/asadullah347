@@ -1,16 +1,21 @@
-## Hi there 👋
+## HELLO THERE 👋
+
+🔭 I’m currently working on Building 3D games and prototypes (Unity + C# / C++ toolchains).
+
+🌱 I’m currently learning Multi-language game development (C, C++, C#, Java, HTML) plus game architecture, basic DB design, and gameplay AI.
+
+📫 How to reach me:
+
+GitHub: https://github.com/asadullah347
+
+Email: asadqazi959@gmail.com
+
+Portfolio: https://asad--ie78y3r.gamma.site/
 
 <!--
 **asadullah347/asadullah347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
