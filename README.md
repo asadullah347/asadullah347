@@ -1,8 +1,8 @@
 ## HELLO THERE 👋
 
-🔭 I’m currently working on Building 3D games and prototypes (Unity + C# / C++ toolchains).
+I’m currently working on Building 3D games and prototypes (Unity + C# / C++ toolchains).
 
-🌱 I’m currently learning Multi-language game development (C, C++, C#, Java, HTML) game architecture.
+I’m currently learning Multi-language game development (C, C++, C#, Java, HTML) game architecture.
 
 📫 How to reach me:
 
