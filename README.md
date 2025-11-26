@@ -6,8 +6,6 @@ I’m currently learning Multi-language game development (C, C++, C#, Java, HTML
 
 📫 How to reach me:
 
-GitHub: https://github.com/asadullah347
-
 Email: asadqazi959@gmail.com
 
 Portfolio: https://asad--ie78y3r.gamma.site/
