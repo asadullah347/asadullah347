@@ -54,9 +54,11 @@ A collection of my game development projects focused on gameplay systems, AI beh
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=asadullah347&theme=github_dark&hide_border=true&include_all_commits=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=asadullah347&theme=github_dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullah347&theme=github_dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=asadullah347&theme=github_dark&hide_border=true&include_all_commits=true&cache_seconds=86400)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=asadullah347&theme=github_dark&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullah347&theme=github_dark&hide_border=true&layout=compact&cache_seconds=86400)
+
+---
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
